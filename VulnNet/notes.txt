@@ -1,0 +1,20 @@
+SMB enumeration 
+
+crackmapexec smb 10.10.234.4
+[*] First time use detected
+[*] Creating home directory structure
+[*] Creating default workspace
+[*] Initializing SSH protocol database
+[*] Initializing MSSQL protocol database
+[*] Initializing SMB protocol database
+[*] Initializing WINRM protocol database
+[*] Initializing LDAP protocol database
+[*] Initializing FTP protocol database
+[*] Initializing RDP protocol database
+[*] Copying default configuration file
+[*] Generating SSL certificate
+SMB         10.10.234.4     445    VULNNET-BC3TCK1  [*] Windows 10 / Server 2019 Build 17763 x64 (name:VULNNET-BC3TCK1) (domain:vulnnet.local) (signing:True) (SMBv1:False)
+
+Server  name : VULNNET-BC3TCK1 
+Domain name: vulnnet.local
+
