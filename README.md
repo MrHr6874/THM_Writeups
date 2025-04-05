@@ -35,7 +35,7 @@ Do not use the knowledge gained here for unauthorized access or unethical activi
 ## 🛠️ Setup (if any)
 
 If a machine has a specific setup or script, it will be included in its respective folder.
-
+The walkthroughs for the select machines are in .ctb extension for which you will need Cherrytree installed.
 ---
 
 ## 🌱 Ongoing Progress
